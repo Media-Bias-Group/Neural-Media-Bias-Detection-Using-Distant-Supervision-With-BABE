@@ -21,8 +21,9 @@ Columns:
 - "biased_words": words marked as biased by the annotators.
 
 # Description of scripts
-- "data_set_evaluation.ipynb": script containing relevant code and results for the evaluation of the data sets (agreement calculations, label distribution...). 
+- "data_set_evaluation.ipynb": script containing relevant code and results for the evaluation of the data sets (agreement calculations, label distribution...).
 
 # Other files
+- "topics_keywords_platforms.txt": a file containing all news topics, keywords to retrieve relevant news articles, and news platforms for the data set creation.
 
 
