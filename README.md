@@ -1,5 +1,5 @@
-# Neural-Media-Bias-Detection-Using-Distant-Supervision-With-BABE
-The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE".
+# Neural Media Bias Detection Using Distant Supervision With BABE - Bias Annotations By Experts
+The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE". More information will be added in case of acceptance of the paper.
 
 # Description of the data files found in /data folder" (all files are also provided in csv format)
 - "raw_labels_MBIC.xlsx": individual annotator labels of MBIC's crowdsourcers.  
