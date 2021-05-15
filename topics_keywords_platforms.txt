@@ -1,0 +1,18 @@
+A list of topics,keywords,and news platforms we defined to retrieve relevant articles on MediaCloud (mediacloud.org)
+
+Topics and keywords:
+black lives matter: "black lives matter", "George Floyd", "Breonna Taylor", "police violence", "BLM"
+gun control: "gun control","gun policy", "Second amendment", "gun violence", "shootings"
+taxes: "taxes","tax law"
+health care: "universal health care","medical care", "ObamaCare", "healthcare"
+abortion: "abortion", "pro-life", "termination of pregnancy"
+student_debt: "student debt","college debt", "college fees", "student loan"
+#metoo: "sexual abuse", "social movement", "sexual harassment", "#metoo", "Harvey Weinstein"
+white nationalism: "white supremacy", "white power", "white nationalism"
+vaccine: "vaccine", "vaccination","corona vaccine", "corona vaccination"
+islam: "islam", "moslem", "religious fighters", "islamist","terrorist"
+marriage-equality: "marriage equality", "gay rights", "LGBTQ","same-sex marriage"
+
+News platforms:
+Reuters, Breitbart, Alternet, Fox News, Federalist, USA Today, MSNBC, The Daily Beast,HuffPost,           
+The Daily Stormer,New York Times,MSNBC,New York Post,UCSD Guardian   
