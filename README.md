@@ -20,4 +20,9 @@ Columns:
 - "label_opinion": opinion label for the sentence ("Expresses writer's opinion" or "Somewhat factual but also opinionated" or "Entirely factual".
 - "biased_words": words marked as biased by the annotators.
 
+# Description of scripts
+- "data_set_evaluation.ipynb": script containing relevant code and results for the evaluation of the data sets (agreement calculations, label distribution...). 
+
+# Other files
+
 
