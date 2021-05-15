@@ -1,7 +1,7 @@
 # Neural-Media-Bias-Detection-Using-Distant-Supervision-With-BABE
 The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE".
 
-# Description of the data files found in /data folder" (allfiles are also available in csv format)
+# Description of the data files found in /data folder" (all files are also provided in csv format)
 - "raw_labels_MBIC.xlsx": individual annotator labels of MBIC's crowdsourcers.  
 - "raw_labels_SG1.xlsx": individual annotator labels of SG1 (8 expert annotators).
 - "raw_labels_SG2.xlsx": individual annotator labels of SG2 (5 expert annotators).
@@ -13,11 +13,11 @@ The repository contains the data files and scripts corresponding to the paper "N
 Columns:
 - "text": sentences extracted from news articles and labeled in terms of bias and opinion.	
 - "news_link": url to the news article from which the sentence is extracted.
-- "outlet": news platfrom publishing the news article.
+- "outlet": news platform publishing the news article.
 - "topic": news topic.
 - "type": political orientation of news platform according to mediacloud.org.
 - "label_bias": bias label for the sentence ("Biased" or "Non-biased").
-- "label_opinion": opinion label for the sentence ("Expresses writer's opinion" or "Somewhat factual but also opinionated" or "Entirely factual.
+- "label_opinion": opinion label for the sentence ("Expresses writer's opinion" or "Somewhat factual but also opinionated" or "Entirely factual".
 - "biased_words": words marked as biased by the annotators.
 
 
