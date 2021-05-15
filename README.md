@@ -6,5 +6,18 @@ The repository contains the data files and scripts corresponding to the paper "N
 - "raw_labels_SG1.xlsx": individual annotator labels of SG1 (8 expert annotators).
 - "raw_labels_SG2.xlsx": individual annotator labels of SG2 (5 expert annotators).
 - "final_labels_MBIC.xlsx": MBIC's aggregated labels over all annotators based on majority vote (1700 sentences).
-- "final_labels_SG1.xlsx": SG1's aggregated labels over all annotators based on majority vote (same 1700 sentences as in MBIC)
-- "final_labels_SG2.xlsx": SG2's aggregated labels over all annotators based on majority vote (3700 sentences)
+- "final_labels_SG1.xlsx": SG1's aggregated labels over all annotators based on majority vote (same 1700 sentences as in MBIC).
+- "final_labels_SG2.xlsx": SG2's aggregated labels over all annotators based on majority vote (3700 sentences).
+- "silver-standart-dataset.xlsx": Silver standard dataset containing 1000 additional unlabeled sentences with potential biased text instances.
+
+Columns:
+- "text": sentences extracted from news articles and labeled in terms of bias and opinion.	
+- "news_link": url to the news article from which the sentence is extracted.
+- "outlet": news platfrom publishing the news article.
+- "topic": news topic.
+- "type": political orientation of news platform according to mediacloud.org.
+- "label_bias": bias label for the sentence ("Biased" or "Non-biased").
+- "label_opinion": opinion label for the sentence ("Expresses writer's opinion" or "Somewhat factual but also opinionated" or "Entirely factual.
+- "biased_words": words marked as biased by the annotators.
+
+
