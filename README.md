@@ -36,5 +36,6 @@ Columns:
 
 # Other files
 - "topics_keywords_platforms.txt": a file containing all news topics, keywords to retrieve relevant news articles, and news platforms for the data set creation.
+- "annotator_demographics.csv": a file containing demographic information about the annotators (The corresponding demographic questionnaire can be found under "demographic_questionnaire.pdf") .
 
 
