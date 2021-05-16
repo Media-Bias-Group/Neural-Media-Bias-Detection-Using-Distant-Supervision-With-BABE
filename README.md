@@ -20,8 +20,19 @@ Columns:
 - "label_opinion": opinion label for the sentence ("Expresses writer's opinion" or "Somewhat factual but also opinionated" or "Entirely factual".
 - "biased_words": words marked as biased by the annotators.
 
+# Additional data used for training purporses
+- "bias_word_lexicon.xlsx": dictionary of biased words used to craft features
+- "dt_final_SG1.xlsx": final SG1 with engineered features
+- "dt_final_SG2.xlsx": final SG2 with engineered features 
+- "news_headlines_usa_biased.csv": data set with distant labels of class biased
+- "news_headlines_usa_neutral.csv": data set with distant labels of class neutral
+
 # Description of scripts
 - "data_set_evaluation.ipynb": script containing relevant code and results for the evaluation of the data sets (agreement calculations, label distribution...).
+- "features_engineering.ipynb": engineering features for the baseline classifier
+- "classification_baseline_model.ipynb": training and evaluation of the baseline classifier
+- "classification.ipynb": training and evaluation of neural language models
+- "distant_supervision.ipynb": pre-training on the data set with distant labels
 
 # Other files
 - "topics_keywords_platforms.txt": a file containing all news topics, keywords to retrieve relevant news articles, and news platforms for the data set creation.
