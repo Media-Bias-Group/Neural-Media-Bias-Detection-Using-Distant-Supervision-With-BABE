@@ -1,9 +1,12 @@
 annotator_id;gender;English proficiency;age;education;study program;political orientation;news consumption;news outlets
 4;male;Non-native;24;Bachelor's degree;MA inComputer Science;0;Every day;Reuters,Japan Times,NHK World News,TVN24
-10;female;Near-native speaker;29;Bachelor's degree;MA in Intercultural Communication;-15;Several times per week;Süddeutsche Zeitung,Zeit,BBC News,France24
-9;male;Non-native;30;Bachelor's degree;MA in Social and Economic Data Science;-5;Several times per day;Süddeutsche Zeitung,CNN,NY Times
-2;male;Near-native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;-15;Every day;Süddeutsche Zeitung,Zeit,Tagesspiegel
+10;female;Near-native speaker;29;Bachelor's degree;MA in Intercultural Communication;-15;Several times per week;Suedddeutsche Zeitung,Zeit,BBC News,France24
+9;male;Non-native;30;Bachelor's degree;MA in Social and Economic Data Science;-5;Several times per day;Sueddeutsche Zeitung,CNN,NY Times
+2;male;Near-native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;-15;Every day;Sueddeutsche Zeitung,Zeit,Tagesspiegel
 3;female;Non-native;25;Bachelor's degree;MA in Computer Science;0;Several times per month;New York Times
 1;male;Near-native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;5;Every day;Zeit
-8;female;Near-native speaker;23;Bachelor's degree;MA in Psychology;0;Every day;New York Times, Süddeutsche Zeitung, Münchner Merkur
-11;male;Near-native speaker;29;Bachelor's degree;MA in Computer Science;10;Every day;Dainik Jagran, BBC, PNP
+8;female;Non-native speaker;23;Bachelor's degree;MA in Psychology;-15;Several times per day;Zeit Online, Sueddeutsche Zeitung, Tagesschau
+11;male;Near-native speaker;27;Bachelor's degree;MA in Computer Science;10;Every day;Dainik Jagran, BBC
+7;female;Non-native speaker;24;Bachelor's degree;MA in Psychology;-10;Several times per week;Tagesschau,Frankfurter Allgemeine Zeitung
+5;female;Native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;0;Every day;Sueddeutsche Zeitung, Zeit
+6;female;Near-native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;5;Every day;Tagesschau,New York Times, Frankfurter Allgemeine Zeitung
