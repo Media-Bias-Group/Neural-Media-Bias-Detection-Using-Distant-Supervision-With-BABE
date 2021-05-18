@@ -9,4 +9,4 @@ annotator_id;gender;English proficiency;age;education;study program;political or
 11;male;Near-native speaker;27;Bachelor's degree;MA in Computer Science;10;Every day;Dainik Jagran, BBC
 7;female;Non-native speaker;24;Bachelor's degree;MA in Psychology;-10;Several times per week;Tagesschau,Frankfurter Allgemeine Zeitung
 5;female;Native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;0;Every day;Sueddeutsche Zeitung, Zeit
-6;female;Near-native speaker;25;Bachelor's degree;MA in Social and Economic Data Science;5;Every day;Tagesschau,New York Times, Frankfurter Allgemeine Zeitung
+6;female;Near-native speaker;26;Bachelor's degree;MA in Social and Economic Data Science;5;Every day;Tagesschau,New York Times, Frankfurter Allgemeine Zeitung
