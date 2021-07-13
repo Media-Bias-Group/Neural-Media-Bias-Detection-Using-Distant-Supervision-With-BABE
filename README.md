@@ -1,4 +1,10 @@
-Dear reviewers, unfortunately, anonymous Github appears to be struggeling with some of the files because of their format. This is not the case in Github, which would be our platform for publication of all resources in case of acceptance. We made all resources anonymously accessible for you at https://drive.google.com/drive/folders/15Wps-sFJY7KF7s8ZYy9HtQtFI526PNbB?usp=sharing. We will keep the rest of the readme here for convenience.
+<b>Dear reviewers, unfortunately, anonymous Github appears to be struggeling with some of the files because of their format. This is not the case in Github, which would be our platform for publication of all resources in case of acceptance. We made all resources anonymously accessible for you at https://drive.google.com/drive/folders/15Wps-sFJY7KF7s8ZYy9HtQtFI526PNbB?usp=sharing. We will keep the rest of the readme here for convenience.</b>
+
+
+
+
+
+
 
 # Neural Media Bias Detection Using Distant Supervision With BABE - Bias Annotations By Experts
 The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE". More information will be added in case of acceptance of the paper.
