@@ -39,13 +39,13 @@ Columns:
 - "annotator_demographics.csv": a file containing demographic information about the annotators (The corresponding demographic questionnaire can be found under "demographic_questionnaire.pdf") .
 
 # Cite as
-@InProceedings{Spinde2021f,
+```@InProceedings{Spinde2021f,
   author    = {Spinde, Timo and Plank, Manuel and Krieger, Jan-David and Ruas, Terry and Gipp, Bela and Aizawa, Akiko},
   title     = {{N}eural {M}edia {B}ias {D}etection {U}sing {D}istant {S}upervision {W}ith {BABE} - {B}ias {A}nnotations {B}y {E}xperts},
   booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2021},
   year      = {2021},
   month     = {Nov.},
   address   = {Dominican Republic},
-}
+}```
 
 
