@@ -1,13 +1,5 @@
-<b>Dear reviewers, unfortunately, anonymous Github appears to be struggeling with some of the files because of their format. This is not the case in Github, which would be our platform for publication of all resources in case of acceptance. We made all resources anonymously accessible for you at https://drive.google.com/drive/folders/1UL0naewjDWvKIMXh0rTgkrJKFCi3ipFl?usp=sharing. We will keep the rest of the readme here for convenience.</b>
-
-
-
-
-
-
-
 # Neural Media Bias Detection Using Distant Supervision With BABE - Bias Annotations By Experts
-The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE". More information will be added in case of acceptance of the paper.
+The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE". 
 
 # Description of the data files found in /data folder" (all files are also provided in csv format)
 - "raw_labels_MBIC.xlsx": individual annotator labels of MBIC's crowdsourcers.  
