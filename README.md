@@ -1,6 +1,8 @@
 # Neural Media Bias Detection Using Distant Supervision With BABE - Bias Annotations By Experts
 The repository contains the data files and scripts corresponding to the paper "Neural Media Bias Detection Using Distant Supervision With BABE". 
 
+The models are uploaded on https://zenodo.org/record/5861846#.YeUoolkxkvE because of the GitHub file size restrictions. 
+
 # Description of the data files found in /data folder" (all files are also provided in csv format)
 - "raw_labels_MBIC.xlsx": individual annotator labels of MBIC's crowdsourcers.  
 - "raw_labels_SG1.xlsx": individual annotator labels of SG1 (8 expert annotators).
