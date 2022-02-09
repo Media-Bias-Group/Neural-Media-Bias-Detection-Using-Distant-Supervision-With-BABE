@@ -63,3 +63,5 @@ Columns:
 ```
 
 
+More about our work can be found here: https://media-bias-research.org/
+
